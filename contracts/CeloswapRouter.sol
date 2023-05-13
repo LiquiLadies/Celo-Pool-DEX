@@ -1075,7 +1075,7 @@ library CeloswapLibrary {
                             hex"ff",
                             factory,
                             keccak256(abi.encodePacked(token0, token1)),
-                            hex"96e8ac4277198ff8b6f785478aa9a39f403cb768dd02cbee326c3e7da348845f" // init code hash
+                            hex"6724b4c3024e9524cbf872d3c54c773447286d234fb33770b2e8c05d358ed93a" // init code hash
                         )
                     )
                 )
