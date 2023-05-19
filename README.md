@@ -1,4 +1,6 @@
-# Celoswap Contract Addresses
+## CELOPOOL VIDEO LINK -> [HERE](https://www.youtube.com/watch?v=qbqIi91KPaw)
+
+## Celoswap Contract Addresses
 
 - **FeeSetter Address**: 0x637CcDeBB20f849C0AA1654DEe62B552a058EA87
 - **Factory Contract Address**: 0x33B888B8698bceEf031db11b227cd7321d9A3724
